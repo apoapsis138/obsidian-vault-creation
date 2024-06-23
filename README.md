@@ -5,7 +5,8 @@ The user inputs a name for the vault and the script then creates the folder stru
 
 ### To Do:
 * Provide support for creating nested folders
-* Provide a way to define structure and notes externally so it isn't hardcoded.
+* Provide a way to define folder structure and notes externally so it isn't hardcoded.
+* Take Obsidian path as an argument when the script is called so it isn't hardcoded.
 
 ### References
 Obsidian:
